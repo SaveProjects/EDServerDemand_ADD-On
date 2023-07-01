@@ -1,0 +1,9 @@
+#
+# Fichier configuration de ed-server-demand add-on par Edmine Network.
+# Dev: N12cf
+# Version: 0.1
+#
+
+#Types: LOBBY, GAME, HOST, LOGIN
+Server:
+  Type: LOBBY
