@@ -373,8 +373,8 @@ public class Main extends JavaPlugin implements PluginMessageListener
         p.sendMessage("");
         p.sendMessage(" §6⚠ §6§lInformation importante §6⚠");
         p.sendMessage(" §c§lInformations:");
-        p.sendMessage(" §7• §fLe serveur ou vous êtes");
-        p.sendMessage(" §7  §fconnécté à besoins de repos...");
+        p.sendMessage(" §7• §fLe serveur où vous êtes");
+        p.sendMessage(" §7  §fconnécté a besoin de repos...");
         p.sendMessage("");
         p.sendMessage(" §7• §fCe serveur ferme dans: §e" + convertTime(t));
         p.sendMessage("");
